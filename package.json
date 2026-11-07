@@ -1,0 +1,35 @@
+{
+  "name": "dtcode-theme",
+  "displayName": "DTCode Theme",
+  "description": "VS Code theme based on the DTCode — Blog lập trình design system",
+  "version": "0.1.0",
+  "publisher": "dtcode-dev",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/thangws4/dtcode-theme"
+  },
+  "homepage": "https://github.com/thangws4/dtcode-theme#readme",
+  "bugs": {
+    "url": "https://github.com/thangws4/dtcode-theme/issues"
+  },
+  "engines": {
+    "vscode": "^1.70.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "DTCode Light",
+        "uiTheme": "vs",
+        "path": "./themes/dtcode-light-color-theme.json"
+      },
+      {
+        "label": "DTCode Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/dtcode-dark-color-theme.json"
+      }
+    ]
+  }
+}
