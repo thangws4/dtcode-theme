@@ -2,7 +2,7 @@
   "name": "dtcode-theme",
   "displayName": "DTCode Theme",
   "description": "VS Code theme based on the DTCode — Blog lập trình design system",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "publisher": "dtcode-dev",
   "icon": "images/icon.png",
   "galleryBanner": {
