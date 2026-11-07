@@ -2,6 +2,8 @@
 
 A VS Code color theme based on the design system of [DTCode — Blog lập trình](https://www.dtcode.io.vn/): cream paper, navy ink, red accents.
 
+![DTCode Light and DTCode Dark](images/preview.png)
+
 ## Variants
 
 | Theme | Background | Text | Accent |

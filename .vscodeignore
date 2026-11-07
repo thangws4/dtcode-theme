@@ -1,3 +1,6 @@
 .claude/**
 .vscode/**
 *.vsix
+images/preview.png
+.gitignore
+Screenshot*.png
